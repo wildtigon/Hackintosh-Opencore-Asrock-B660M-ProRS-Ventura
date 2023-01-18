@@ -6,7 +6,7 @@
 | ------------- | --------- |
 | CPU | Intel Core i5 12400F |
 | Motherboard | Asrock B660M Series | 
-| RAM | 32GB (2 x 8GB) Corsair Vengeance RGB @ 2666 CL15 |
+| RAM | 16GB (2 x 8GB) Corsair Vengeance RGB @ 2666 CL15 |
 | GPU | MSI RX 580 - 8GB  |
 | OS Disk (Nvme/Sata3) | Western Digital SN770 1TB |
 
